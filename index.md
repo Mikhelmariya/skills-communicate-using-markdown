@@ -9,3 +9,5 @@ learning markdown
 $ git init
 Initialized empty Git repository 
 ```
+- [ ] Task 1  
+-  Task 2
