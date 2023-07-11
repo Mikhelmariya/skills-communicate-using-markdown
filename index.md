@@ -5,3 +5,7 @@
 learning markdown
 
 ![image](https://octodex.github.com/images/yaktocat.png)
+```
+$ git init
+Initialized empty Git repository 
+```
